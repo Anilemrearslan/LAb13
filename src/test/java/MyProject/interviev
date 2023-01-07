@@ -1,0 +1,38 @@
+FRAMEWORK
+• In my framework, I was developing my testing code using JavaScript programming language and Protractor.
+• I used Jasmine to manage and centralize my dependencies which I have pom.xml
+• My framework was structured based on the POM that every page element go to one class and it makes easy to
+maintenance and to keep my code organized and clean.
+o Also, I have separate classes where I keep my implemented step ...
+o I created other separate folders for my drivers, for my runners and for my useful methods.
+• My framework supports Behavior Driven Development (BDD) and scenario outline.
+• I am using Jira as bug tracking tool.
+• And I achieve continuous integration and schedule my tests using Jenkins. (I accomplished X THING, by doing Y THING,
+and achieved Z MEASURABLE RESULT)
+• Nice little touch: achievement during this project, that really helped me grow as an automation tester, was that I
+discovered ISSUE X, did ACTION Y, and then measurable result Z happened.
+
+. What are the advantages of Selenium?
+• Selenium is open source and free to use without any licensing cost
+• It supports multiple languages like Java, Ruby, Python, C#...
+• It supports multi-browser testing
+• It has a good amount of resources and helping community
+• It supports many operating systems like Windows, Mac, Linux ...
+• Interact with the web application
+
+. What are the limitations of Selenium?
+• We cannot test desktop application
+• We cannot test web services
+• Ewe have to use external libraries and tools for performing tasks like testing framework (TestNG, JUnit), reading from
+external files (Apache POI for excel)
+• Automating Captcha is not possible using Selenium
+• It does not support file upload facility.
+
+. What are the disadvantages of Selenium?
+• Selenium supports only web-based applications, does not support windows-based application
+• No built-in reporting tool, it needs third party tools for report generation activity
+• Cannot work with graphics, captchas, barcodes, shapes
+• It does not support file upload facility.
+• Hard to master, requires developer level knowledge
+• Hard to write good locators
+• Hard to synchronize
